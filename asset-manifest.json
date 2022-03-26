@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-context-redux/static/js/main.29d1967f.js",
-    "index.html": "/react-context-redux/index.html",
-    "main.29d1967f.js.map": "/react-context-redux/static/js/main.29d1967f.js.map"
+    "main.js": "/react-context/static/js/main.0ff1804f.js",
+    "index.html": "/react-context/index.html",
+    "main.0ff1804f.js.map": "/react-context/static/js/main.0ff1804f.js.map"
   },
   "entrypoints": [
-    "static/js/main.29d1967f.js"
+    "static/js/main.0ff1804f.js"
   ]
 }
