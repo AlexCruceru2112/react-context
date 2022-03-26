@@ -1,6 +1,6 @@
 {
-  "name": "react-context-redux",
-  "homepage": "https://alexcruceru2112.github.io/Portfolio/Projects/react-context-redux",
+  "name": "react-context",
+  "homepage": "https://alexcruceru2112.github.io/react-context",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
